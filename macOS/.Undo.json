@@ -1,5 +1,5 @@
 {
-    "usageCount": 0, 
+    "usageCount": 6, 
     "omitTrigger": false, 
     "prompt": false, 
     "description": "Undo", 
@@ -13,7 +13,9 @@
     }, 
     "hotkey": {
         "hotKey": "z", 
-        "modifiers": []
+        "modifiers": [
+            "<alt>"
+        ]
     }, 
     "modes": [
         3
